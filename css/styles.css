@@ -123,13 +123,13 @@ body {
 }
 
 .active.button {
-    background-color: #2196f3;
-    color: #ffffff;
+    background-color: var(--accent-color);
+    color: var(--white-text-color);
 }
 
 .portfolio-button:hover,
 .portfolio-button:focus {
-    background-color: var(--white-text-color);
+    background-color: var(--white-background-color);
     color: var(--accent-color);
 }
 
