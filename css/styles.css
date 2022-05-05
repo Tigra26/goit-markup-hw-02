@@ -84,6 +84,10 @@ body {
     color: var(--accent-color);
 }
 
+.footer-contact{
+    font-style: normal;
+}
+
 .footer {
     background-color: var(--hero-background-color);
 }
